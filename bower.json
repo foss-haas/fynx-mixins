@@ -1,0 +1,36 @@
+{
+  "name": "fynx-mixins",
+  "description": "Fynx mixins for classic React components.",
+  "author": {
+    "name": "Alan Plum <me@pluma.io>",
+    "url": "http://foss-haas.github.io/fynx-mixins"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/foss-haas/fynx-mixins.git"
+  },
+  "main": "dist/fynx-mixins.js",
+  "license": "MIT",
+  "dependencies": {
+    "immutable": "^3.6.2"
+  },
+  "ignore": [
+    "**/.*",
+    "test",
+    "src",
+    "lib",
+    "node_modules",
+    "package.json"
+  ],
+   "keywords": [
+     "fynx",
+     "flox",
+     "flux",
+     "react",
+     "immutable",
+     "store",
+     "action",
+     "axn",
+     "mixin"
+  ]
+}

@@ -1,5 +1,3 @@
-# Synopsis
-
 [Fynx](http://foss-haas.github.io/fynx) is an architecture library for [React](http://facebook.github.io/react). The **fynx-mixins** module provides store mixins for classic React components.
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/foss-haas/fynx)

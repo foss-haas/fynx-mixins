@@ -1,6 +1,6 @@
 {
   "name": "fynx-mixins",
-  "version": "1.0.0-dev",
+  "version": "0.1.0",
   "description": "Fynx mixins for classic React components.",
   "main": "lib/index.js",
   "keywords": [

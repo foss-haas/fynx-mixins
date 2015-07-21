@@ -8,7 +8,7 @@
 
 [![NPM status](https://nodei.co/npm/fynx-mixins.png?compact=true)](https://www.npmjs.com/package/fynx-mixins)
 
-[![Build status](https://img.shields.io/travis/foss-haas/fynx-mixins.svg)](https://travis-ci.org/foss-haas/fynx-mixins) [![Coverage status](https://img.shields.io/coveralls/foss-haas/fynx-mixins.svg)](https://coveralls.io/r/foss-haas/fynx-mixins?branch=master) [![Codacy rating](https://img.shields.io/codacy/6f19c1455aa04fd08d77445fb5b9fc91.svg)](https://www.codacy.com/public/me_4/fynx-mixins)
+[![Build status](https://img.shields.io/travis/foss-haas/fynx-mixins.svg)](https://travis-ci.org/foss-haas/fynx-mixins) [![Coverage status](https://img.shields.io/coveralls/foss-haas/fynx-mixins.svg)](https://coveralls.io/r/foss-haas/fynx-mixins?branch=master)
 
 # Install
 
